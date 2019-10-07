@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="chatDB2" />
+    <version value="2" />
+    <list>
+        <mapping class="com.away.hk01demo.table.LookupTable" />
+        <mapping class="com.away.hk01demo.table.SearchTable"/>
+    </list>
+</litepal>
