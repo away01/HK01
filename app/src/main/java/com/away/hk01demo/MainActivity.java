@@ -29,16 +29,13 @@ import com.away.hk01demo.utils.http.UrlConfig;
 import com.jcodecraeer.xrecyclerview.ProgressStyle;
 import com.jcodecraeer.xrecyclerview.XRecyclerView;
 import com.lzy.okgo.model.Response;
-
 import org.litepal.LitePal;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
 import butterknife.BindView;
 
 public class MainActivity extends BaseActivity {
